@@ -1,7 +1,7 @@
 from app.services import database, ai, telegram
 
 HELP_TEXT = """
-👋 *Welcome to HealthBot!*
+👋 *Welcome to Health-pal!*
 
 I can help you with:
 • General health questions
